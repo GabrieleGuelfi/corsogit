@@ -2,7 +2,8 @@
 
 int main() {
 	int zio=0;
+	float x;
 	if (zio==0)
-	printf("bella zio");
+		printf("bella zio");
 	return 0;
 }
