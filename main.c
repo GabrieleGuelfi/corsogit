@@ -6,5 +6,5 @@ int main() {
 	int x[10];
 	if (zio==0)
 		printf("bella zio");
-	return 0;
+	return 3;
 }
